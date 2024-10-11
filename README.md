@@ -15,8 +15,8 @@ Usage
 Compile the code using a C compiler (e.g., gcc product_manager.c -o product_manager)
 Run the application (e.g., ./product_manager)
 Follow the menu prompts to add, display, or update products
-Code Structure
-The code is written in C and consists of the following files:
+
+
 
 
 
